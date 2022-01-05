@@ -4,14 +4,14 @@
 <div align="center">
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83832372?v=4" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/afnanplk-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Jasil" src="https://img.shields.io/badge/Abu-jasil?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/afnanplk"><img title="Author" src="https://img.shields.io/badge/Author-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/SHALU-SER"><img title="Author" src="https://img.shields.io/badge/Author-SHALU-SER/jasil?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it public
+Project created by <a href="https://github.com/SHALU-SER">jasil</a> to make it public
     <br>
        | © |
         Reserved |
@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it
 
 ```
   
-pinky - pinky Userbot is Open Source software open to development. 
+Abu - jasil Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -56,7 +56,7 @@ the user is responsible.
   [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/afnanplk/lastpink)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHALU-SER/jasil)
      </div>
 <br>
 <br >
